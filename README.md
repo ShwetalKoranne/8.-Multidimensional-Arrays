@@ -1,8 +1,8 @@
 # 8.-Multidimensional-Arrays
 
-# Aim: To study and implement C++ Multidimensional Arrays with various matrix operations.
+Aim: To study and implement C++ Multidimensional Arrays with various matrix operations.
 
-## Apparatus: VS Code or any C++ Compiler.
+Apparatus: VS Code or any C++ Compiler.
 
 ## Theory:
 
@@ -16,12 +16,6 @@
 * **Contiguous Memory**: Elements are stored in row-major order for optimal cache performance
 * **Direct Access**: O(1) access time using row and column indices
 * **Mathematical Operations**: Foundation for linear algebra operations
-
-```cpp
-int matrix[3][3];                    // Static 2D array
-int dynamicMatrix[rows][cols];       // Variable-length array 
-vector<vector<int>> stlMatrix;       // Dynamic 2D array using STL (Standard Template Library)
-```
 
 ### Key Matrix Operations:
 
@@ -65,8 +59,6 @@ Mastering multidimensional arrays is crucial for:
 4. Store each element in the appropriate matrix position
 5. Display the complete matrix in proper row-column format
 
-
-```
 
 ---
 
